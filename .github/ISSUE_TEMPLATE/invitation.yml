@@ -1,7 +1,7 @@
-name: Invitation to the GitHub Community Organization
-description: I would like to be part of the awesome community
-title: "Please invite me to the GitHub Community Organization"
-labels: ["invite me to the community"]
+name: GitHub Invitation
+description: I want to join the awesome GitHub organisation
+title: "Invite me to the GitHub Community Organization"
+labels: ["invite me to the organisation"]
 body:
   - type: input
     id: name
@@ -21,6 +21,11 @@ body:
     id: Additional
     attributes:
       label: Additional Context
-      description: Where did you meet Eddie? What do you like about this community/Why do you want to join?
+      description: Where did you learn about Learn With Community? What do you like about this community/Why do you want to join?
     validations:
-      required: true
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        You can also join our Discord community [at dsc.gg/learnwithcommunity](https://dsc.gg/learnwithcommunity)
+        Feel free to check out our community projects [on our github organisation](https://github.com/LearnWithCommunity)

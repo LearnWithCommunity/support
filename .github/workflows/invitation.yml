@@ -1,3 +1,5 @@
+name: Invitation
+
 on:
   issues:
     types: [labeled]

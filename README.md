@@ -15,19 +15,16 @@
 ## FAQ
 
 ### How do I set the Organization to Public?
+
 - Navigate to our [community page](https://github.com/LearnWithCommunity)
-	
 - Click on the highlighted area:
-	
-	![](https://user-images.githubusercontent.com/91655303/144694971-52b9ecc8-444e-4133-a74c-fc76d7b64692.png)
-	
+  ![](https://user-images.githubusercontent.com/91655303/144694971-52b9ecc8-444e-4133-a74c-fc76d7b64692.png)
+
 - Enter your username in the highlighted searchbar:
-	
-	![](https://user-images.githubusercontent.com/91655303/144694991-e39efb23-3a8d-42a1-8493-9147428fdb9d.png)
-	
+  ![](https://user-images.githubusercontent.com/91655303/144694991-e39efb23-3a8d-42a1-8493-9147428fdb9d.png)
+
 - Click `Private` (the default) and set it to `Public`
-	
-	![](https://user-images.githubusercontent.com/91655303/144695000-d7c875be-93d6-4265-8a53-350ba6028b2f.png)
+  ![](https://user-images.githubusercontent.com/91655303/144695000-d7c875be-93d6-4265-8a53-350ba6028b2f.png)
 
 ## 🟩 Contribute
 

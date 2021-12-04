@@ -29,8 +29,12 @@
 	
 	![](https://user-images.githubusercontent.com/91655303/144695000-d7c875be-93d6-4265-8a53-350ba6028b2f.png)
 
+## 🟩 Contribute
+
+Please check our [contributing guide](https://github.com/LearnWithCommunity/support/blob/main/CONTRIBUTING.md) for all information about contributing to this project 😀
+
 ## 💪 Thanks to the all Contributors
 
-Thanks a lot for spending your time in helping LinkFree grow. Thanks a lot! Keep rocking 🍻
+Thanks a lot for spending your time in helping our community grow. Thanks a lot! Keep rocking 🍻
 
 [![Contributors](https://contrib.rocks/image?repo=LearnWithCommunity/support)](https://github.com/LearnWithCommunity/support/graphs/contributors)

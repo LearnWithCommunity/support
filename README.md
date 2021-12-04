@@ -15,7 +15,7 @@
 ## FAQ
 
 ### How do I set the Organization to Public?
-- Navigate to our community page: https://github.com/LearnWithCommunity
+- Navigate to our [community page](https://github.com/LearnWithCommunity)
 	
 - Click on the highlighted area:
 	

@@ -7,7 +7,30 @@
       <img alt="Become a part of our Discord Community" src="https://img.shields.io/discord/851449008877469697?style=flat-square">
     </a>
     <a href="https://github.com/LearnWithCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Invite+me+to+the+GitHub+Community+Organization">
-      <img src="https://img.shields.io/badge/join-our%20github%20organisation-green?style=flat-square">
+      <img src="https://img.shields.io/badge/join-our%20github%20organisation-brightgreen?style=flat-square">
     </a>
   </p>
 </div>
+
+## FAQ
+
+### How do I set the Organization to Public?
+- Navigate to our community page: https://github.com/LearnWithCommunity
+	
+- Click on the highlighted area:
+	
+	![](https://user-images.githubusercontent.com/91655303/144694971-52b9ecc8-444e-4133-a74c-fc76d7b64692.png)
+	
+- Enter your username in the highlighted searchbar:
+	
+	![](https://user-images.githubusercontent.com/91655303/144694991-e39efb23-3a8d-42a1-8493-9147428fdb9d.png)
+	
+- Click `Private` (the default) and set it to `Public`
+	
+	![](https://user-images.githubusercontent.com/91655303/144695000-d7c875be-93d6-4265-8a53-350ba6028b2f.png)
+
+## 💪 Thanks to the all Contributors
+
+Thanks a lot for spending your time in helping LinkFree grow. Thanks a lot! Keep rocking 🍻
+
+[![Contributors](https://contrib.rocks/image?repo=LearnWithCommunity/support)](https://github.com/LearnWithCommunity/support/graphs/contributors)

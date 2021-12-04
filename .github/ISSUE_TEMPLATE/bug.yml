@@ -1,7 +1,8 @@
 name: Bug report
 description: Create a bug report to help us address errors in the repository
 title: "[BUG] <bug description>"
-labels: [bug]
+labels:
+  - "🚦 status: awaiting triage"
 body:
   - type: textarea
     id: bugdescription

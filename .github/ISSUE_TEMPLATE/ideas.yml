@@ -1,7 +1,8 @@
 name: Ideas
 description: Have a new idea or feature request
 title: "[FEATURE REQUEST] <description here>"
-labels: [enhancement]
+labels:
+  - "🚦 status: awaiting triage"
 body:
   - type: textarea
     id: description

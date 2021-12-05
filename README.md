@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/91655303/144630238-db743fc3-72d4-4f3d-ac97-0bab2b6c2f6f.png">
+  <img height="400" src="https://user-images.githubusercontent.com/91655303/144741606-31cd4847-26a9-4e91-bf12-f0497df4c751.png">
   <h1>Community Support</h1>
   <p>Community Help & Support and AEA</p>
   <p>

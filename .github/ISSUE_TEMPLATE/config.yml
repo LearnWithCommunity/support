@@ -1,1 +1,5 @@
 blank_issues_enabled: false
+contact_links:
+  - name: Discord community
+    url: https://dsc.gg/learnwithcommunity
+    about: Feel free to contact any of the repository maintainers via Discord for any queries!

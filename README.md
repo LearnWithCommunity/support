@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/918132403225129050/918142046282330122/lwcbanner.png?width=927&height=409">
+  <img src="https://user-images.githubusercontent.com/91655303/145224369-b295765b-225d-46cd-87a7-e314a35389cb.png">
   <h1>Community Support</h1>
   <p>Community Help & Support and AEA</p>
   <p>

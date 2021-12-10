@@ -8,14 +8,16 @@ body:
     id: name
     attributes:
       label: Name
-      placeholder: Insert your name here
+      description: Insert your name here
+      placeholder: David Leal
     validations:
       required: true
   - type: input
     id: discordname
     attributes:
       label: Discord Username (if applicable)
-      placeholder: Insert your Discord username here
+      description: Insert your Discord username here
+      placeholder: "Panquesito7#3723"
     validations:
       required: false
   - type: textarea
@@ -28,5 +30,5 @@ body:
   - type: markdown
     attributes:
       value: |
-        You can also join our Discord community [at dsc.gg/learnwithcommunity](https://dsc.gg/learnwithcommunity)
-        Feel free to check out our community projects [on our github organisation](https://github.com/LearnWithCommunity)
+        You can also join our [Discord community](https://dsc.gg/learnwithcommunity)
+        Feel free to check out our community projects [on our GitHub organization](https://github.com/LearnWithCommunity)

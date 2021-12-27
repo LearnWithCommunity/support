@@ -1,3 +1,4 @@
+<!-- markdownlint-disable-next-line -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/91655303/145224369-b295765b-225d-46cd-87a7-e314a35389cb.png">
   <h1>Community Support</h1>

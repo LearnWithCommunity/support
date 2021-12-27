@@ -17,11 +17,11 @@
 ### How do I set the Organization to Public?
 
 - Navigate to our [community page](https://github.com/LearnWithCommunity)
-- Click on the highlighted area:
+- Click on the highlighted area
 
 ![](https://user-images.githubusercontent.com/91655303/144694971-52b9ecc8-444e-4133-a74c-fc76d7b64692.png)
 
-- Enter your username in the highlighted searchbar:
+- Enter your username in the highlighted searchbar
 
 ![](https://user-images.githubusercontent.com/91655303/144694991-e39efb23-3a8d-42a1-8493-9147428fdb9d.png)
 
